@@ -99,18 +99,7 @@ int main()
             {break;}
         if (win_con(board, plr1_choice, plr2_choice,game_on) == 10)
             {break;}
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+ 
         }
     
     return 0;
@@ -119,11 +108,7 @@ int main()
     
     }
     
-    
-    
-    
-    
-    
+
     
     
     
